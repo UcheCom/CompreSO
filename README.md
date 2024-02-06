@@ -13,7 +13,7 @@ My aim is to provide a user-friendly application that addresses the storage chal
 * Pillow
 * PyQt5
 
-## Authors
+## Author
 This project was created by:
 
 Uchenna Oko: https://github.com/uchecom/compreso
