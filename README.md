@@ -17,7 +17,7 @@ If you have any feedback (ex: feature ideas) or would like to contributeto this 
 Special thanks to:
 [tomvon](https://gist.github.com/tomvon/ae288482869b495201a0) on compression codes.
 
-[ismaan1998](https://github.com/ismaan1998/ImageCompressor-GUI-Applicati    on) for comprehensive videos.
+[ismaan1998](https://github.com/ismaan1998/ImageCompressor-GUI-Applicaton) for comprehensive videos.
 
 ## Author
 This project was created by Uchenna Oko. He is currently an aspiring full stack software engineer with a passion for creating products that connect and empower others. He used his skills on the back-end and front-end to create CompreSO, which compresses image/picture formats into acceptable size(s), without compromising quality.
